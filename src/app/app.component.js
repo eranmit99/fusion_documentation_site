@@ -1,4 +1,4 @@
-import './app.less'; 
+import './app.scss'; 
 import template from './app.html'
 
 

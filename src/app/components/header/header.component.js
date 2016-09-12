@@ -1,5 +1,5 @@
 import template from './header.html'
-import './header.less';
+import './header.scss';
 
 
 export class HeaderController {
